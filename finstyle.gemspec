@@ -24,11 +24,11 @@ Gem::Specification.new do |spec|
   spec.add_dependency("rubocop", Finstyle::RUBOCOP_VERSION)
 
   spec.add_development_dependency("bundler", "~> 1.6")
-  spec.add_development_dependency("rake", "~> 10.0")
+  spec.add_development_dependency("rake", "~> 12.0")
   spec.add_development_dependency("countloc", "~> 0.4")
 
   # style and complexity libraries are tightly version pinned as newer releases
   # may introduce new and undesireable style choices which would be immediately
   # enforced in CI
-  spec.add_development_dependency("cane", "2.6.2")
+  spec.add_development_dependency("cane", "3.0.0")
 end

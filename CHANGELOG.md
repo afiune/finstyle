@@ -1,3 +1,9 @@
+## 1.6.0 / 2016-12-09
+
+### Breaking changes
+
+* Pull request [#9][https://github.com/fnichol/finstyle/issues/9]: Update Rubocop & Release version 1.6.0. ([@afiune][https://github.com/afiune])
+
 ## 1.5.0 / 2015-06-29
 
 ### Breaking changes
@@ -68,5 +74,6 @@ The initial release.
 [#2]: https://github.com/fnichol/finstyle/issues/2
 [#3]: https://github.com/fnichol/finstyle/issues/3
 [#4]: https://github.com/fnichol/finstyle/issues/4
+[#8]: https://github.com/fnichol/finstyle/issues/8
 [@cwjohnston]: https://github.com/cwjohnston
 [@fnichol]: https://github.com/fnichol
